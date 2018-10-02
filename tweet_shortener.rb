@@ -1,5 +1,5 @@
 def dictionary 
   words = {
-    :hi =
+    hi = 
   }
 end
