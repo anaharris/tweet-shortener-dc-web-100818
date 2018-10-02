@@ -19,7 +19,7 @@ def word_substituter (tweet)
   keys_arr = dictionary.keys
   tweet_arr.each do |word|
     if tweet_arr.include?(word) && keys_arr.include?(word) == true 
-    tweet_arr[tweet_arr.index()]
+    tweet_arr[tweet_arr.index(word)]
 end 
 
 
