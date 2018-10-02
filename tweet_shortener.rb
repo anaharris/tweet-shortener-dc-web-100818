@@ -26,4 +26,4 @@ def word_substituter (tweet)
 end 
 
 
-def 
+def bulk_tweet_shortener
