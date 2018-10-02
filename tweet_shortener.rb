@@ -1,6 +1,6 @@
 def dictionary 
    {
-    "hello" => "hello",
+    "hello" => "hi",
     "2" => ["to", "two", "too"],
     "4" => ["for", "four"],
     "b" => "be",
