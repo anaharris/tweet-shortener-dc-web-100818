@@ -12,7 +12,7 @@ end
 
 
 def word_substituter (tweet)
-  
+  tweet_arr = tweet.split(" ")
 end 
 
 
