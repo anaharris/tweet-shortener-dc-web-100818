@@ -14,4 +14,8 @@ def word_substituter
   
 end 
 
+def selective_tweet_shortener 
+  
+end
+
 def 
