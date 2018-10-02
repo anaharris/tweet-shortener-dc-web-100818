@@ -13,7 +13,7 @@ end
 
 def word_substituter (tweet)
   tweet_arr = tweet.split(" ")
-  keys_arr = dictionary
+  keys_arr = dictionary.keys
 end 
 
 
