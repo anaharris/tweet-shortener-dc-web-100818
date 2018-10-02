@@ -25,17 +25,3 @@ end
   return tweet_arr.join(" ")
 end 
 
-
-def bulk_tweet_shortener
-  
-end 
-
-
-def selective_tweet_shortener 
-  
-end
-
-
-def shortened_tweed_truncator 
-  
-end
