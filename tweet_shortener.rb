@@ -1,7 +1,8 @@
 def dictionary 
    {
     "hello" => "hi",
-    "2" => ["to", "two", "too"],
+    "to" => "2",
+    
     "4" => ["for", "four"],
     "b" => "be",
     "u" => "you",
