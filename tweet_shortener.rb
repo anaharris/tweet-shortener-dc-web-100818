@@ -25,3 +25,5 @@ def word_substituter (tweet)
   return tweet_arr.join(" ")
 end 
 
+
+def 
