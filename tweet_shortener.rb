@@ -6,6 +6,6 @@ def dictionary
     "b" => "be",
     "u" => "you",
     "@" => "at",
-    "&" => 
+    "&" => "and"
   }
 end
