@@ -2,8 +2,10 @@ def dictionary
    {
     "hello" => "hi",
     "to" => "2",
-    
-    "4" => ["for", "four"],
+    "two" => "2",
+    "too" => "2",
+    "for" => "4",
+    "four" => "4",
     "b" => "be",
     "u" => "you",
     "@" => "at",
