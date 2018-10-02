@@ -1,5 +1,6 @@
 def dictionary 
   words = {
-    "hi" =>  
+    "hi" => "hello",
+    
   }
 end
