@@ -18,4 +18,4 @@ def selective_tweet_shortener
   
 end
 
-def 
+def shortened_tweed_truncator 
