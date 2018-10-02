@@ -18,7 +18,7 @@ def word_substituter (tweet)
   tweet_arr = tweet.split(" ")
   keys_arr = dictionary.keys
   tweet_arr.each do |word|
-    if tweet_arr.include?(word) && keys_arr.include?(word)
+    if tweet_arr.include?(word) && keys_arr.include?(word) == true 
   
 end 
 
